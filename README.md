@@ -1,5 +1,4 @@
 <hr>
-```html
 <h2>Example of code</h2>
 <pre>
     <div class="container">
@@ -11,4 +10,3 @@
         </div>
     </div>
 </pre>
-```
