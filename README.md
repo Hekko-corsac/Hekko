@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=14&pause=1000&color=66CC00&background=112200&vCenter=true&random=false&width=1000&height=40&lines=load+system+...;%24+sudo+rm+-rf+%2F*;reinstall+system+..." alt="Typing SVG" /></a><img src="header.png" alt="text">
+<img src="header.png" alt="text"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=14&pause=1000&color=66CC00&background=112200&vCenter=true&random=false&width=1000&height=40&lines=load+system+...;%24+sudo+rm+-rf+%2F*;reinstall+system+..." alt="Typing SVG" /></a>
 
 <!--
 **bidni/bidni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
