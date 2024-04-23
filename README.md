@@ -1,6 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Maxim</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=14&pause=1000&color=66CC00&background=112200&vCenter=true&random=false&width=435&height=40&lines=load+system+...;%24+sudo+rm+-rf+%2F*;reinstall+system+..." alt="Typing SVG" /></a>
 
 
 <!--
