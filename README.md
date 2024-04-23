@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=14&pause=1000&color=66CC00&background=112200&vBottom=true&random=false&width=435&height=40&lines=load+system+...;%24+sudo+rm+-rf+%2F*;reinstall+system+..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=14&pause=1000&color=66CC00&background=112200&vTop=true&random=false&width=435&height=40&lines=load+system+...;%24+sudo+rm+-rf+%2F*;reinstall+system+..." alt="Typing SVG" /></a>
 
 
 <!--
