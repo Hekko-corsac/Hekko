@@ -1,21 +1,35 @@
 <hr>
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <meta charset="UTF-8">
-    <title>Объект с цветной заливкой</title>
+    <title>Мой проект</title>
     <style>
-        .object {
-            width: 200px;
-            height: 200px;
-            border: 1px solid black;
-            background-color: blue;
-        }
+      .container {
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+      }
+
+      .text {
+        color: white;
+        font-size: 2rem;
+        text-align: center;
+      }
+
+      .background {
+        background-color: #333;
+        padding: 1rem;
+      }
     </style>
-</head>
-<body>
-    <div class="object">
-        <p>Это текст внутри объекта.</p>
+  </head>
+  <body>
+    <div class="container">
+      <div class="background">
+        <div class="text">
+          Добро пожаловать в мой проект!
+        </div>
+      </div>
     </div>
-</body>
+  </body>
 </html>
