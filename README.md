@@ -9,3 +9,7 @@
         </div>
     </div>
 </pre>
+
+.block {
+  background-color: blue;
+}
